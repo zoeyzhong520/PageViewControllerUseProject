@@ -1,2 +1,4 @@
 # PageViewControllerUseProject
 UIPageViewController的使用
+
+在 PageViewController 中需要实现UIPageViewControllerDataSource的两个方法，返回当前页VC的前一个和后一个VC.
